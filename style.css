@@ -16,6 +16,8 @@
             color: rgb(140, 0, 255);
             margin: 0 auto;
             padding: 16px;
+
+            display: flex;
         }
         article{
             display: flex;
