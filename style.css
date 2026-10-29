@@ -20,6 +20,7 @@
             display: flex;
             flex-wrap: wrap;
         }
+
         article{
             display: flex;
             
@@ -28,6 +29,8 @@
             margin: 16px;
             gap: 16px;
             padding: 16px;
+
+            flex: 1 1 25%;
         } 
 
         img {
