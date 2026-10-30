@@ -1,6 +1,10 @@
  :root {
     --cor-primaria:  rgb(140, 0, 255);
     --cor-secundaria:  #6921dd;
+    --cor-fundo: rgb(255, 255, 255);
+    --cor-texto: #000;
+    --cor-contraste: #000;
+    --cor-botao: #000;
  }
 
  body {
